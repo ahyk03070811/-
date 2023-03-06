@@ -16,6 +16,7 @@ main{
 .box{
   width: 300px;
   margin-right: 30px;
+  padding: 10px;
   background-color: #eeeeee;
   position: relative;
 }
@@ -75,6 +76,7 @@ footer{
   
   .box1-img .box2-img .box3-img{
     height: 150px;
+    background-size: auto;
   }
   
   footer{
